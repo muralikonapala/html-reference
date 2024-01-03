@@ -1,0 +1,17 @@
+Instructions to Git Configuration
+
+Install Git
+git config --global user.email "email@gmail.com"
+git config --global user.name "username"
+cd Foldername/ (to open folder), Cd.. (to exit folder)
+git clone https://github.com/username/html-reference.git
+cd Filename/
+git add . (to add the file in repo)
+git status (to check the status of repo file)
+git commit -m "comment msg"
+git push
+
+
+
+ 
+
